@@ -81,9 +81,9 @@ router.get("/", async (req, res) => {
               ""
             );
 
-            const sid = `*ROBIN [The powerful WA BOT]/n/n${pushdat}/n/n${pushtime}***\n\n👉 ${string_session} 👈\n\n*This is the your Session ID, copy this id and paste into config.js file*\n\n*You can ask any question using this link*\n\n*94783314361*\n\n*You can join my whatsapp channel*\n\n*https://whatsapp.com/channel/0029Vb0rCUr72WU3uq0yMg42*`;
+            const sid = `*PINK QUEEN MD [The powerful WA BOT]***\n\n👉 ${string_session} 👈\n\n*This is the your Session ID, copy this id and paste into config.js file*\n\n*මාව සම්බන්ධ කර ගැනිමට*\n\n*94783314361*\n\n*You can join my whatsapp channel*\n\n*https://whatsapp.com/channel/0029Vb0rCUr72WU3uq0yMg42*`;
             const mg = `🛑 *Do not share this code to anyone* 🛑`;
-            const dt = await RobinPairWeb.sendMessage(user_jid, {
+            const dt = await PINk-QUEEN-MDPairWeb.sendMessage(user_jid, {
               image: {
                 url: "https://raw.githubusercontent.com/ransika2008/Img-2/refs/heads/main/High%20contrast%2C%20low-key%20lighting.%20Warm%20terracotta%20and%20cool%20teal%20tones.%20%20A%20fierce%2C%20graceful%20Pink%20Queen%20with%20rose-gold%20hair%2C%20ethereal%20silk%20gown%2C%20golden%20armor%2C%20and%20pink%20crystal%20staff.%20%20She%20stands%20on%20a%20floating%20kingdom%20against%20a%20pink%20sky.%20Hyperrealistic%2C%20u.jpg",
               },
